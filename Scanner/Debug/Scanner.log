@@ -1,0 +1,4 @@
+﻿  Semant.cpp
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/PROFILE"
+Diagram.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:REF"
+  Scanner.vcxproj -> C:\Users\Kseniya\source\repos\Scanner\Debug\Scanner.exe

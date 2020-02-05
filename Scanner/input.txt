@@ -1,0 +1,23 @@
+int 2;
+int main()
+{
+	setlocale();
+	long int sc, sc2;
+	int type; 
+	TypeLex l;
+
+	sc = TScanner();// файл по умолчанию 
+	do {
+		type = Scanner();
+	} while (type != TEnd); 
+
+	sc2 = TScanner();
+	TDiagram dg = TDiagram(); dg = S();
+
+	type = Scanner();
+	if (type == TEnd)
+	    sc = 2;
+	else	
+		sc = PrintError();
+	return 0;
+}

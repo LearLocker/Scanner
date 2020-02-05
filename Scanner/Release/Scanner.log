@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  Diagram.cpp
+  Main.cpp
+  Scanner.cpp
+c:\users\kseniya\source\repos\scanner\scanner\diagram.cpp(28): warning C6287: Избыточный код:  левая и правая части выражения идентичны.
+c:\users\kseniya\source\repos\scanner\scanner\diagram.cpp(210): warning C6001: Использование неинициализированной памяти "uk1".
+c:\users\kseniya\source\repos\scanner\scanner\scanner.cpp(15): warning C26495: Variable 'TScanner::t' is uninitialized. Always initialize a member variable (type.6).
+c:\users\kseniya\source\repos\scanner\scanner\scanner.cpp(214): warning C6283: Память для "err" выделена при помощи оператора new [] для массивов, а удаляется скалярным оператором delete.
+c:\users\kseniya\source\repos\scanner\scanner\scanner.cpp(230): warning C6283: Память для "err" выделена при помощи оператора new [] для массивов, а удаляется скалярным оператором delete.
+c:\users\kseniya\source\repos\scanner\scanner\scanner.cpp(257): warning C6031: Возвращаемое значение пропущено: "fscanf".
+c:\users\kseniya\source\repos\scanner\scanner\scanner.cpp(269): warning C6283: Память для "InpFile" выделена при помощи оператора new [] для массивов, а удаляется скалярным оператором delete.
+c:\users\kseniya\source\repos\scanner\scanner\scanner.cpp(265): warning C6283: Память для "Mod" выделена при помощи оператора new [] для массивов, а удаляется скалярным оператором delete.

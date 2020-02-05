@@ -1,0 +1,57 @@
+long int Char() { 
+//ghgh
+q = a, a, f, c f f f f;
+	int Serr = 0x345A;
+	strcpy();
+	return Serr;
+}
+int a,b,cd;
+int f = 456;
+int s();
+int h(){}
+int main()
+{
+    do{
+       q = a, a, f, c f f f f;
+       r = 0Xab;
+       hid();
+} while(t == 9864754);
+	return 0;
+}
+long int Char() { 
+//ghgh
+int q = a, a, f, c f f f f;
+	int Serr = 0x345A;
+	strcpy();
+	return Serr;
+}
+int a,b,cd;
+int f = 456;
+int s();
+int h(){}
+int main()
+{
+    do{
+       q = a, a, f, c f f f f;
+       r = 0Xab;
+       hid();
+} while(t == 9864754);
+	return 0;
+}
+
+
+if (node != NULL) {
+		if (node->Right) {
+			Print(node->Right, level + 4);
+		}
+		if (level) {
+			cout << setw(level) << ' ';
+		}
+		if (node->Right) 
+			cout << " /\n" << setw(level) << ' ';
+		cout << node->id << "(" << dType[node->dataType] << ")" << "\n ";
+		if (node->Left) {
+			cout << setw(level) << ' ' << " \\\n";
+			Print(node->Left, level + 4);
+		}
+	}
